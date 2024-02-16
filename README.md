@@ -3,7 +3,7 @@
 <head>
 	<title>Sai geetha Gummadapu</title>
 	<link rel="stylesheet" type="text/css" href="resume.css">
-	<script src="https://kit.fontawesome.com/3ef3559250.js" crossorigin="anonymous"></script>
+</title> <script src="https://kit.fontawesome.com/3ef3559250.js" crossorigin="anonymous"></script>
 </head>
 <body>
 
@@ -46,16 +46,16 @@
 	        <h2>Hobbies</h2>
 	        <ul>
 	          <li>
-	            <p><i class="fa-solid fa-book"></i></p>
+	            <p><i class="fa-solid fa-book">Books</i></p>
 	          </li>
 	          <li>
-	            <p><i class="fa-solid fa-plant-wilt"></i></p>
+	            <p><i class="fa-solid fa-plant-wilt">Plants</i></p>
 	          </li>
 	          <li>
-	            <p><i class="fa-solid fa-bicycle"></i></p>
+	            <p><i class="fa-solid fa-bicycle">Bicycle</i></p>
 	          </li>
 	          <li>
-	            <p><i class="fa-solid fa-chess"></i></p>
+	            <p><i class="fa-solid fa-chess">Chess</i></p>
 	          </li>
 	        </ul>
 	      </div>
